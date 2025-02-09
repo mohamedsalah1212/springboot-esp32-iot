@@ -15,5 +15,5 @@ You can toggle the LED **ON/OFF** using a simple **web interface** with modern b
 
 ### 1️⃣ **Clone the Repository**
 ```sh
-git clone https://github.com/yourusername/esp32-spring-control.git
+git clone https://github.com/mohamedsalah1212/springboot-esp32-iot
 cd esp32-spring-control
